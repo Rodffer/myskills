@@ -1,0 +1,6 @@
+module Pods_myskills {
+  umbrella header "Pods-myskills-umbrella.h"
+
+  export *
+  module * { export * }
+}
